@@ -1,0 +1,27 @@
+{
+  "name": "kodilla-conditions",
+  "version": "1.0.0",
+  "description": "Kodilla JS script conditions",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "kodilla-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taurus83/Conditions.git"
+  },
+  "keywords": [
+    "conditions"
+  ],
+  "author": "Piotr Rucinski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Taurus83/Conditions/issues"
+  },
+  "homepage": "https://github.com/Taurus83/Conditions#readme"
+}
